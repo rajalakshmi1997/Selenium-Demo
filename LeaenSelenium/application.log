@@ -1,0 +1,5 @@
+2021-12-30 16:01:20,535  INFO [main] log4jDemo:20 - Launch Browser
+2021-12-30 16:01:32,823  INFO [main] log4jDemo:25 - opened application
+2021-12-30 16:04:16,868  INFO [main] log4jDemo:20 - Launch Browser
+2021-12-30 16:04:19,557  INFO [main] log4jDemo:25 - opened application
+2021-12-30 16:04:19,567  INFO [main] log4jDemo:29 - Demo Web Shop. Login
